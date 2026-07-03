@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "cta": "Hire Me"
+  },
+  "footer": {
+    "tagline": "Crafting immersive digital experiences with precision, purpose, and a relentless eye for detail.",
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "copyright": "© 2024 {name}. All rights reserved.",
+    "built": "Built with Next.js & Framer Motion"
+  }
+}

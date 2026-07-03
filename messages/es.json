@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "projects": "Proyectos",
+    "skills": "Habilidades",
+    "contact": "Contacto",
+    "cta": "Contratarme"
+  },
+  "footer": {
+    "tagline": "Creando experiencias digitales inmersivas con precisión, propósito y una atención meticulosa al detalle.",
+    "navigation": "Navegación",
+    "connect": "Conectar",
+    "copyright": "© 2024 {name}. Todos los derechos reservados.",
+    "built": "Construido con Next.js y Framer Motion"
+  }
+}
